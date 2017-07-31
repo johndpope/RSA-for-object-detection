@@ -49,8 +49,8 @@ Please kindly cite our work if it helps your research:
     }
 
 ## Acknowledgment
-We appreciate the contribution of researchers below:
+We appreciate the contribution of the following researchers:
 
-[Dong Chen](https://www.microsoft.com/en-us/research/people/doch/) @ MSRA, some basic ideas, such as using a shallow and tiny network with small receiptive field to accelerate detection process, using landmark regression instead of bounding box regression, etc., are inspired by him when I was a intern in MSRA.
+[Dong Chen](https://www.microsoft.com/en-us/research/people/doch/) @Microsoft Research, some basic ideas are inspired by him when Yu Liu worked as an intern at MSR.
 
-Jiongchao Jin @ BUAA, some baseline results are provided by him.
+Jiongchao Jin @Beihang University, some baseline results are provided by him.
