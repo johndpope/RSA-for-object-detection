@@ -47,3 +47,10 @@ Please kindly cite our work if it helps your research:
 	  Journal = {IEEE International Conference on Computer Vision},
 	  Year = {2017}
     }
+
+## Acknowledgment
+We appreciate the contribution of researchers below:
+
+[Dong Chen](https://www.microsoft.com/en-us/research/people/doch/) @ MSRA, some basic ideas, such as using a shallow and tiny network with small receiptive field to accelerate detection process, using landmark regression instead of bounding box regression, etc., are inspired by him when I was a intern in MSRA.
+
+Jiongchao Jin @ BUAA, some baseline results are provided by him.
