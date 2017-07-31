@@ -14,10 +14,10 @@ Codebase for *Recurrent Scale Approximation for Object Detection in CNN* publish
 
 ## Grab and Go (Demo)
 
-Models for face detection trained on popular datasets. 
+**Caffe models** for face detection trained on popular datasets. 
 
-+ Base RPN model: `predict/output/ResNet_3b_s16/tot_wometa_1epoch`, trained on {Widerface (fg/bg), COCO (bg only), ImageNet Det (bg only)}
-+ RSA model: `predict/output/ResNet_3b_s16_fm2fm_pool2_deep`, trained on {Widerface, COCO, ImageNet Det}
++ Base RPN model: `predict/output/ResNet_3b_s16/tot_wometa_1epoch`, trained on `Widerface` (fg/bg), `COCO` (bg only) and ImageNet Det` (bg only)
++ RSA model: `predict/output/ResNet_3b_s16_fm2fm_pool2_deep/65w`, trained on `Widerface`, `COCO`, and `ImageNet Det`
 
 Steps to run the **test** code:
 
